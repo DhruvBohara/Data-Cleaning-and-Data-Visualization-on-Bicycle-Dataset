@@ -1,4 +1,4 @@
-# Synapse-Tasks
+# ML and Data Analytics Tasks
 This repository contains synapse tasks
 Task 1 is Project Synopsis on NLP-Text Similarity
 Task 2 is on Data Cleaning and Data Visualisation
